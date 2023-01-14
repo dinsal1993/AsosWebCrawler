@@ -1,7 +1,7 @@
 # AsosWebCrawler
 
 Authors:
-Din Salman
+Din Salman,
 Eran Jehassy
 
 This is a course project.
